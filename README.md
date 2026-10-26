@@ -12,11 +12,11 @@
 
 <div align="center" style="text-align:center">
     <a href="#">
-        <img width="49%"  src="https://github-readme-stats.vercel.app/api?username=matlab98&show_icons=true&theme=material-palenight&count_private=true"
+        <img width="49%"  src="https://github-readme-stats.vercel.app/api?username=hilbrakaku&show_icons=true&theme=material-palenight&count_private=true"
             alt="Hilder Arrieta's github stats" >
     </a>
     <a href="#">
-        <img width="49%"  src="https://github-readme-streak-stats.herokuapp.com/?user=matlab98&theme=material-palenight"
+        <img width="49%"  src="https://github-readme-streak-stats.herokuapp.com/?user=hilbrakaku&theme=material-palenight"
             alt="Hilder's Github commit streak">
     </a>
   <br />
